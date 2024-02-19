@@ -1,0 +1,29 @@
+  body {
+    background-color: lavender !important;
+  }
+   #HomePage h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center; /* To center the content horizontally */
+    margin-top: 4%; 
+   }
+   .paragraph p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center; /* To center the content horizontally */
+    margin-top: 13%; 
+    font-size: large;
+   }
+  .Slogan p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center; /* To center the content horizontally */
+    font-size: large;
+    margin-top:10%; 
+   }
